@@ -5,13 +5,20 @@ For full deatils about our project, joing us at our main website https://genai.o
 <h2>About</h2>
 The OWASP Gen AI Security Project is a global, open-source initiative dedicated to identifying, mitigating, and documenting security and safety risks associated with generative AI technologies, including large language models (LLMs), agentic AI systems, and AI-driven applications. Our mission is to empower organizations, security professionals, AI practitioners, and policymakers with comprehensive, actionable guidance and tools to ensure the secure development, deployment, and governance of generative AI systems.
 
+<h2>Core Principles</h2>
+
+* <b>Open & Collaborative:</b> The project thrives on global contributions from AI and security experts across industries, academia, and government sectors.
+* <b>Transparency & Accessibility:</b> All research outputs are open-source, peer-reviewed, and freely available to ensure widespread adoption and continuous improvement.
+* <b> Practical & Actionable Guidance: </b> The project focuses on producing hands-on, implementable security solutions rather than theoretical frameworks.
+* <b>Ethical AI Security Advocacy:</b> Promote responsible AI development and deployment by addressing ethical concerns, bias mitigation, and adversarial misuse.
+
 <h2>Project Objectives</h2>
 
-<h3>Risk Identification & Documentation</h3>
+Risk Identification & Documentation
 * Maintain and evolve the OWASP Top 10 for LLM Applications, providing a structured framework for understanding generative AI’s most critical security risks.
 * Research and document emerging threats, adversarial attack techniques, and potential vulnerabilities specific to AI models and applications.
 
-<h3>Security Best Practices & Mitigations</h3>
+Security Best Practices & Mitigations
 * Develop practical security recommendations and blueprints for securing AI-driven applications.
 * Provide governance frameworks, compliance guidelines, safety and risk management strategies tailored for AI security.
 * Maintain and expand resources like AI Security Solutions Landscape, a curated repository of security tools, and frameworks, updated quarterly.
