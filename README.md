@@ -12,7 +12,6 @@ The OWASP Gen AI Security Project is a global, open-source initiative dedicated 
 * Research and document emerging threats, adversarial attack techniques, and potential vulnerabilities specific to AI models and applications.
 
 <h3>Security Best Practices & Mitigations</h3>
-
 * Develop practical security recommendations and blueprints for securing AI-driven applications.
 * Provide governance frameworks, compliance guidelines, safety and risk management strategies tailored for AI security.
 * Maintain and expand resources like AI Security Solutions Landscape, a curated repository of security tools, and frameworks, updated quarterly.
@@ -34,7 +33,6 @@ Enterprise Adoption & AI Governance
 <h2>Core Principles</h2>
 
 * <b>Open & Collaborative:</b> The project thrives on global contributions from AI and security experts across industries, academia, and government sectors.
-Transparency & Accessibility: 
-All research outputs are open-source, peer-reviewed, and freely available to ensure widespread adoption and continuous improvement.
-Practical & Actionable Guidance: The project focuses on producing hands-on, implementable security solutions rather than theoretical frameworks.
-Ethical AI Security Advocacy: Promote responsible AI development and deployment by addressing ethical concerns, bias mitigation, and adversarial misuse.
+* <b>Transparency & Accessibility:</b> All research outputs are open-source, peer-reviewed, and freely available to ensure widespread adoption and continuous improvement.
+* <b> Practical & Actionable Guidance: </b> The project focuses on producing hands-on, implementable security solutions rather than theoretical frameworks.
+* <b>Ethical AI Security Advocacy:</b> Promote responsible AI development and deployment by addressing ethical concerns, bias mitigation, and adversarial misuse.
