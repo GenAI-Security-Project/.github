@@ -36,10 +36,3 @@ Enterprise Adoption & AI Governance
 * Develop and maintain resources to support practitioners and executives alike such as the CISO AI Security Checklist, offering structured guidance for enterprises integrating generative AI into business workflows.
 * Support organizations in building AI security governance programs through resources like the OWASP AI Security Center of Excellence (CoE) Guide.
 * Provide CISOs and security leaders with governance roadmaps and risk assessment methodologies.
-
-<h2>Core Principles</h2>
-
-* <b>Open & Collaborative:</b> The project thrives on global contributions from AI and security experts across industries, academia, and government sectors.
-* <b>Transparency & Accessibility:</b> All research outputs are open-source, peer-reviewed, and freely available to ensure widespread adoption and continuous improvement.
-* <b> Practical & Actionable Guidance: </b> The project focuses on producing hands-on, implementable security solutions rather than theoretical frameworks.
-* <b>Ethical AI Security Advocacy:</b> Promote responsible AI development and deployment by addressing ethical concerns, bias mitigation, and adversarial misuse.
