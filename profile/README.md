@@ -15,7 +15,7 @@ For full deatils about our project, joing us at our main website https://genai.o
 <h2>Project Objectives</h2>
 
 Risk Identification & Documentation
-* Maintain and evolve the OWASP Top 10 for LLM Applications, providing a structured framework for understanding generative AI’s most critical security risks.
+* Maintain and evolve the OWASP Top 10 for LLM Applications, and other reseources, providing a structured framework for understanding generative AI’s most critical security risks.
 * Research and document emerging threats, adversarial attack techniques, and potential vulnerabilities specific to AI models and applications.
 
 Security Best Practices & Mitigations
