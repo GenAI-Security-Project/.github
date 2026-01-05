@@ -3,6 +3,8 @@
 <h2>About</h2>
 The OWASP Gen AI Security Project is a global, open-source initiative dedicated to identifying, mitigating, and documenting security and safety risks associated with generative AI technologies, including large language models (LLMs), agentic AI systems, and AI-driven applications. Our mission is to empower organizations, security professionals, AI practitioners, and policymakers with comprehensive, actionable guidance and tools to ensure the secure development, deployment, and governance of generative AI systems.
 
+The project began as the OWASP Top 10 for LLM Applications, but has rapidly grown beyond that frist project to now include over 8 working groups and 14 projects, all focused at adressing the security lifecycle for LLM, GenAI and Agentic applications. We are consolidating all of the project githubs under one umbrella to help improve collaboration, discoverability and contribution.
+
 <br></br>
 <p align="center"><img src="images/GenAI-HeroWheel-2.png" width="400" alt="Centered image"></p>
 
