@@ -1,4 +1,4 @@
-<h1>Welcome to the OWASP Gen AI Secuity Project's Repo!</h1>
+<h1>Welcome to the OWASP Gen AI Secuity Project Repo!</h1>
 
 <h2>About</h2>
 
