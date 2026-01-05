@@ -6,7 +6,6 @@ The OWASP Gen AI Security Project is a global, open-source initiative dedicated 
 <br></br>
 <p align="center"><img src="images/GenAI-HeroWheel-2.png" width="400" alt="Centered image"></p>
 
-<br></br>
 For full deatils about our project, joing us at our main website https://genai.owasp.org
 
 <h2>Core Principles</h2>
