@@ -3,11 +3,11 @@
 <h2>About</h2>
 
 <img src="images/GenAI-HeroWheel-2.png" align="right" width="400px" style="margin:16px;"/>
-The OWASP Gen AI Security Project is a global, open-source initiative dedicated to identifying, mitigating, and documenting security and safety risks associated with generative AI technologies, including large language models (LLMs), agentic AI systems, and AI-driven applications. Our mission is to empower organizations, security professionals, AI practitioners, and policymakers with comprehensive, actionable guidance and tools to ensure the secure development, deployment, and governance of generative AI systems. <br>
+The <a href="https://genai.owasp.org">OWASP Gen AI Security Project</a> is an <b>OWASP Flagship Project</b> and global, open-source initiative dedicated to identifying, mitigating, and documenting security and safety risks associated with generative AI technologies, including large language models (LLMs), agentic AI systems, and AI-driven applications. Our mission is to empower organizations, security professionals, AI practitioners, and policymakers with comprehensive, actionable guidance and tools to ensure the secure development, deployment, and governance of generative AI systems. <br>
 <br>
-The project began as the OWASP Top 10 for LLM Applications, but has rapidly grown beyond that first project to now include over 8 working groups, 14+ projects and growing, all focused at adressing the security lifecycle for LLM, GenAI and Agentic applications. We are consolidating all of the project githubs under one umbrella to help improve collaboration, discoverability and contribution.<br>
+The project began as the <a href="https://genai.owasp.org">OWASP Top 10 for LLM Applications</a>, but has rapidly grown beyond that first project to now include over 8 working groups, 14+ projects and growing, all focused at adressing the security lifecycle for LLM, GenAI and Agentic applications. <b>We are consolidating all of the project githubs</b> here under one umbrella organization to help improve collaboration, discoverability, cross-project collabpration, and contribution.<br>
 <br>
-For full deatils about our project, joing us at our main website https://genai.owasp.org
+For full deatils about our project, join us at our main website https://genai.owasp.org
 
 <h2>Core Principles</h2>
 
